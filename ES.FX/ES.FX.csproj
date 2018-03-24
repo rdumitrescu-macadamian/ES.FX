@@ -12,6 +12,8 @@
     <RepositoryUrl>https://github.com/EmberStack/ES.FX</RepositoryUrl>
     <RepositoryType>Git</RepositoryType>
     <Company>EmberStack.com</Company>
+    <Description>EmberStack Frameworks - Core Library - Exntesions and helper classes for .NET</Description>
+    <Copyright>Copyright EmberStack.com</Copyright>
   </PropertyGroup>
 
 </Project>
